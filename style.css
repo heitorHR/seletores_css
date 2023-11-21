@@ -1,0 +1,11 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+P{
+    color: aqua;
+}
+.paragrafo{
+    border: 1px solid black;
+    color: blue;
+}
